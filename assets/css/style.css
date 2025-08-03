@@ -79,6 +79,7 @@ body {
 .remember-forgot a {
     color: #fff;
     text-decoration: none;
+    padding: 1px;
 }
 
 .remember-forgot label input {
