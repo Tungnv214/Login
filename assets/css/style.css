@@ -16,6 +16,9 @@ body {
     background: url('../img/1.jpg') no-repeat;
     background-size: cover;
     background-position: center;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 .nav {
